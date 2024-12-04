@@ -1,0 +1,48 @@
+1. Basic Level
+Write a program to print numbers from 1 to 10 using a for loop.
+Create a program to display the first 10 natural numbers using a while loop.
+Print all even numbers from 1 to 50 using a for loop.
+Write a program to calculate the sum of the first 10 natural numbers using a loop.
+Display a multiplication table for a given number using a do-while loop.
+Check if a number is prime by iterating through potential divisors.
+Write a program to reverse the digits of an integer using a while loop.
+
+2. Intermediate Level
+Print the Fibonacci series up to n terms using a loop.
+Display all prime numbers between 1 and 100 using nested loops.
+Write a program to find the factorial of a given number using a loop.
+Implement a program to find the greatest common divisor (GCD) of two numbers using a loop.
+Create a pattern like this using nested loops:
+markdown
+Copy code
+*
+**
+***
+****
+*****
+Display the sum of digits of an integer using a loop.
+Print the following pattern using loops:
+Copy code
+  1
+ 121
+12321
+1234321 ```
+
+3. Advanced Level
+Write a program to check if a given number is a palindrome using a loop.
+Generate the Pascal’s triangle up to a given number of rows.
+Implement a program to find the power of a number without using the pow function (use a loop instead).
+Write a program to simulate the Collatz Conjecture for a given number.
+Implement a program to check if a number is an Armstrong number.
+Create a program to sort an array using the bubble sort algorithm and loops.
+Write a program to simulate the sieve of Eratosthenes to find all primes less than n.
+Print a hollow diamond pattern using loops:
+markdown
+Copy code
+   *
+  * *
+ *   *
+  * *
+   *
+Write a program to find the largest palindrome product of two 3-digit numbers using nested loops.
+Implement a program to calculate the sum of all prime factors of a given number.
